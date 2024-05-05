@@ -1,0 +1,2 @@
+Changes to the document are outlined in blue text
+Changed the developer experience report to be more like an actual DER
