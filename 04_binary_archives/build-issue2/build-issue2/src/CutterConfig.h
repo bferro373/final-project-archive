@@ -1,0 +1,13 @@
+
+#ifndef CUTTER_CONFIG_H
+#define CUTTER_CONFIG_H
+
+#define CUTTER_VERSION_MAJOR 2
+#define CUTTER_VERSION_MINOR 4
+#define CUTTER_VERSION_PATCH 0
+
+#define CUTTER_VERSION_FULL "2.4.0-Rohan-branch-issue2-de46cb1"
+
+#define CUTTER_EXTRA_PLUGIN_DIRS ""
+
+#endif

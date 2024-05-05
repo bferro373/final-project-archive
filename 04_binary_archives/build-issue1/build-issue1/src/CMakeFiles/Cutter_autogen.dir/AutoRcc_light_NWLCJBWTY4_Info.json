@@ -1,0 +1,33 @@
+{
+	"BUILD_DIR" : "/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/src/Cutter_autogen",
+	"CMAKE_BINARY_DIR" : "/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/src",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/Users/rohansagar/Documents/GitHub/ECE49595-OSS/src",
+	"CMAKE_SOURCE_DIR" : "/Users/rohansagar/Documents/GitHub/ECE49595-OSS",
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/src/Cutter_autogen/include",
+	"INPUTS" : 
+	[
+		"/Users/rohansagar/Documents/GitHub/ECE49595-OSS/src/themes/lightstyle/rc/up_arrow_combo.png",
+		"/Users/rohansagar/Documents/GitHub/ECE49595-OSS/src/themes/lightstyle/rc/down_arrow.png",
+		"/Users/rohansagar/Documents/GitHub/ECE49595-OSS/src/themes/lightstyle/rc/left_arrow_disabled.png",
+		"/Users/rohansagar/Documents/GitHub/ECE49595-OSS/src/themes/lightstyle/rc/down_arrow_disabled.png",
+		"/Users/rohansagar/Documents/GitHub/ECE49595-OSS/src/themes/lightstyle/rc/left_arrow.png",
+		"/Users/rohansagar/Documents/GitHub/ECE49595-OSS/src/themes/lightstyle/rc/right_arrow.png",
+		"/Users/rohansagar/Documents/GitHub/ECE49595-OSS/src/themes/lightstyle/rc/up_arrow_disabled.png",
+		"/Users/rohansagar/Documents/GitHub/ECE49595-OSS/src/themes/lightstyle/rc/down_arrow_combo.png",
+		"/Users/rohansagar/Documents/GitHub/ECE49595-OSS/src/themes/lightstyle/rc/up_arrow.png",
+		"/Users/rohansagar/Documents/GitHub/ECE49595-OSS/src/themes/lightstyle/rc/right_arrow_disabled.png",
+		"/Users/rohansagar/Documents/GitHub/ECE49595-OSS/src/themes/lightstyle/light.qss"
+	],
+	"LOCK_FILE" : "/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/src/CMakeFiles/Cutter_autogen.dir/AutoRcc_light_NWLCJBWTY4_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "light" ],
+	"OUTPUT_CHECKSUM" : "NWLCJBWTY4",
+	"OUTPUT_NAME" : "qrc_light.cpp",
+	"RCC_EXECUTABLE" : "/Users/rohansagar/miniconda3/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/src/CMakeFiles/Cutter_autogen.dir/AutoRcc_light_NWLCJBWTY4_Used.txt",
+	"SOURCE" : "/Users/rohansagar/Documents/GitHub/ECE49595-OSS/src/themes/lightstyle/light.qrc",
+	"VERBOSITY" : 0
+}

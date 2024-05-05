@@ -1,0 +1,1 @@
+cmd='/usr/local/bin/meson;<SOURCE_DIR>;--prefix=/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/Rizin-prefix;--libdir=lib;&&;/usr/local/bin/meson;configure;--prefix=/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/Rizin-prefix;--libdir=lib;--buildtype;$<$<CONFIG:Debug>:debug>$<$<NOT:$<CONFIG:Debug>>:release>'

@@ -1,0 +1,17 @@
+/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/CMakeFiles/Rizin-Bundled.dir
+/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/CMakeFiles/edit_cache.dir
+/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/CMakeFiles/rebuild_cache.dir
+/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/CMakeFiles/list_install_components.dir
+/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/CMakeFiles/install.dir
+/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/CMakeFiles/install/local.dir
+/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/CMakeFiles/install/strip.dir
+/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/src/CMakeFiles/Cutter.dir
+/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/src/CMakeFiles/translations.dir
+/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/src/CMakeFiles/edit_cache.dir
+/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/src/CMakeFiles/rebuild_cache.dir
+/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/src/CMakeFiles/list_install_components.dir
+/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/src/CMakeFiles/install.dir
+/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/src/CMakeFiles/install/local.dir
+/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/src/CMakeFiles/install/strip.dir
+/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/src/CMakeFiles/Cutter_autogen_timestamp_deps.dir
+/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/src/CMakeFiles/Cutter_autogen.dir

@@ -1,0 +1,13 @@
+prefix=/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/Rizin-prefix
+includedir=${prefix}/include
+libdir=${prefix}/lib
+
+datdir=share/rizin
+
+Name: rz_main
+Description: rizin foundation libraries
+Version: 0.8.0
+Requires: rz_core, rz_demangler, rz_arch, rz_sign, rz_diff, rz_syscall
+Requires.private: rz_util, rz_magic, rz_socket, rz_flag, rz_cons, rz_hash, rz_crypto, rz_il, rz_io, rz_reg, rz_bp, rz_egg, rz_search, rz_debug, rz_config, rz_bin
+Libs: -L${libdir} -lrz_main
+Cflags: -I${includedir}/librz

@@ -1,0 +1,13 @@
+prefix=/Users/rohansagar/Documents/GitHub/ECE49595-OSS/build/Rizin-prefix
+includedir=${prefix}/include
+libdir=${prefix}/lib
+
+plugindir=lib/rizin/plugins
+datdir=share/rizin
+
+Name: rz_bp
+Description: rizin foundation libraries
+Version: 0.8.0
+Requires: rz_util
+Libs: -L${libdir} -lrz_bp
+Cflags: -I${includedir}/librz
